@@ -1,0 +1,19 @@
+{
+  "name": "20.5",
+  "version": "1.0.0",
+  "description": "\"Zadanie 20.5\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtekboj/module_20-20.5.git"
+  },
+  "author": "Wojciech Bojarczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojtekboj/module_20-20.5/issues"
+  },
+  "homepage": "https://github.com/wojtekboj/module_20-20.5#readme"
+}
