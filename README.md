@@ -6,6 +6,8 @@
 ## General info
 Database of countries synchronized with Redux - part 3
 
+<code>npm start - Starting app in terminal</code>
+
 ## Technologies
 Project is created with:
 * HTML5
